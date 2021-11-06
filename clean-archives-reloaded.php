@@ -6,7 +6,7 @@ Plugin Name:  		Clean Archives Reloaded
 Plugin URI:   		https://github.com/AndreasK79/clean-archives-reloaded
 Description:  		A slick, Javascript-enhanced post archive list generator for WordPress 2.5+.
 Version:      		3.3.0
-Original Author:    Viper007Bond
+Original Author:	Viper007Bond
 Modified By:		AndreasK79
 Author URI:   		https://github.com/AndreasK79/
 
