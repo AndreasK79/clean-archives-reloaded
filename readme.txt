@@ -1,4 +1,4 @@
-Since the original author has passed away. I cloned the repo to fix this plugin for PHP8.
+Since the original author has passed away, I cloned the repo to fix this plugin for PHP8.
 
 The repo I cloned it from, says is 3.2.3, but the code says 3.1.3.
 I updated from the last updated plugin I had (3.2.0), and made the plugin work in PHP8.
@@ -11,7 +11,6 @@ November 6th, 2021. AndreasK79
 
 === Clean Archives Reloaded ===
 Contributors: Viper007Bond
-Donate link: http://www.viper007bond.com/donate/
 Tags: archive, archives, posts
 Requires at least: 2.5
 Stable tag: trunk
@@ -23,14 +22,6 @@ A slick, Javascript enhanced post archive list generator.
 Clean Archives Reloaded generates a list of all of your posts, sorted by month. It's enhanced with Javascript to allow collapsing and expanding of months.
 
 It's highly efficient and won't kill your server with tons of MySQL queries.
-
-= Demo =
-
-Check out one of my sites' [archive page](http://www.finalgear.com/post-archives/).
-
-= Legacy Version =
-
-The current version of this plugin is only compatible with WordPress 2.5 and newer. If for some reason you are running an older version of WordPress, you will need to use the <a href="http://downloads.wordpress.org/plugin/clean-archives-reloaded.2.0.0.zip">legacy version</a> of this plugin. But please, do yourself a favor and upgrade your version of WordPress!
 
 == Installation ==
 
