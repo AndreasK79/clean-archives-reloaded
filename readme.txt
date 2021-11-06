@@ -63,10 +63,6 @@ Configure options via Settings -> Clean Archives.
 
 Yes, it does. See the [WordPress Codex](http://codex.wordpress.org/Translating_WordPress) for details on how to make a translation file. Then just place the translation file, named `car-[value in wp-config].mo`, into the plugin's folder.
 
-= I love your plugin! Can I donate to you? =
-
-Sure! I do this in my free time and I appreciate all donations that I get. It makes me want to continue to update this plugin. You can find more details on [my donate page](http://www.viper007bond.com/donate/).
-
 == Shortcode Tag Parameters ==
 
 You can customize the list options on a per-call basis if you wish.
