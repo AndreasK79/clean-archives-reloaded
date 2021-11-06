@@ -1,3 +1,10 @@
+since the original author has passed away. I cloned the repo to fix this plugin for PHP8.
+
+The repo I cloned it from, says is 3.2.3, but the code says 3.1.3.
+I updated from the last updated plugin I had (3.2.0), and made the plugin work in PHP8.
+
+November 6th, 2021. AndreasK79
+
 === Clean Archives Reloaded ===
 Contributors: Viper007Bond
 Donate link: http://www.viper007bond.com/donate/
